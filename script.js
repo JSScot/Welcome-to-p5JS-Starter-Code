@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   // This code will run repeatedly
   // Fill color
-  fill('teal');
+  fill('brown');
  // Draw circle  
   ellipse(56, 46, 55, 55);
 }
